@@ -1,12 +1,78 @@
 {
   "version": 1,
   "tag": "PAL-VPM3LA",
-  "note": "아이템 1개",
+  "note": "아이템 11개",
   "items": [
     {
       "id": "Axe_Tier_00",
       "set": {
-        "AttackValue": 9000.0
+        "AttackValue": 9999.0
+      }
+    },
+    {
+      "id": "Berries",
+      "set": {
+        "RestoreSatiety": 999.0
+      }
+    },
+    {
+      "id": "ClothArmor",
+      "set": {
+        "DefenseValue": 999.0,
+        "HPValue": 7777.0
+      }
+    },
+    {
+      "id": "EnergyDrink",
+      "set": {
+        "RestoreSP": 555.0
+      }
+    },
+    {
+      "id": "GrilledMeat",
+      "set": {
+        "RestoreSanity": 333.0
+      }
+    },
+    {
+      "id": "Wool",
+      "set": {
+        "MaxStackCount": 4444.0,
+        "Weight": 44.0
+      }
+    },
+    {
+      "id": "Shield_01",
+      "set": {
+        "ShieldValue": 9999.0
+      }
+    },
+    {
+      "id": "ClothArmor",
+      "set": {
+        "DefenseValue": 999.0,
+        "HPValue": 7777.0
+      }
+    },
+    {
+      "id": "ClothArmor",
+      "set": {
+        "DefenseValue": 999.0,
+        "HPValue": 7777.0
+      }
+    },
+    {
+      "id": "ClothArmor",
+      "set": {
+        "DefenseValue": 999.0,
+        "HPValue": 7777.0
+      }
+    },
+    {
+      "id": "ClothArmor",
+      "set": {
+        "DefenseValue": 999.0,
+        "HPValue": 7777.0
       }
     }
   ]

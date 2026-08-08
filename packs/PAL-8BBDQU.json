@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "tag": "PAL-8BBDQU",
+  "note": "아이템 1개",
+  "items": [
+    {
+      "id": "Axe_Tier_00",
+      "set": {
+        "AttackValue": 14000
+      }
+    }
+  ]
+}

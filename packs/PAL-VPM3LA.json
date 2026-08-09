@@ -7,8 +7,7 @@
     {
       "id": "BOSS_GrassMammoth",
       "set": {
-        "EnemyMaxHPRate": 20.0,
-        "HP": 199980.0
+        "HP": 20000.0
       }
     },
     {

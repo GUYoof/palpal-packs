@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "tag": "PAL-VPM3LA",
+  "note": "아이템 0개 · 팰·사람 2종",
+  "items": [],
+  "pals": [
+    {
+      "id": "BOSS_GrassMammoth",
+      "set": {
+        "EnemyMaxHPRate": 20.0,
+        "HP": 199980.0
+      }
+    },
+    {
+      "id": "Female_Soldier01",
+      "set": {
+        "HP": 1234.0
+      }
+    }
+  ]
+}

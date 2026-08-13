@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "tag": "PAL-GMWV7K",
+  "note": "아이템 0개 · 팰·사람 1종",
+  "items": [],
+  "pals": [
+    {
+      "id": "SheepBall",
+      "set": {
+        "HP": 71.0
+      }
+    }
+  ]
+}
